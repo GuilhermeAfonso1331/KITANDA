@@ -1,0 +1,1 @@
+-- Estrutura inicial da base de dados PostgreSQL para o projeto KITANDA  
